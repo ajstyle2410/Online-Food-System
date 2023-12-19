@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body{
+     background-color: #d9e8e6;
+}
+
+ul{
+    gap:10vh;
+    justify-content: end;
+    display: flex;
+     padding: 2vh;
+}
